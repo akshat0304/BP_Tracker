@@ -4,11 +4,11 @@ Akshat:
 1) Get working version of Bitplanes tracker on an IOS device
 
 Aditya:
-1) Optimize Bitplane library to make use of NEON/SIMD instructions. (w/ Aayush)
+1) Optimize mobile device implemenation to make use of NEON/SIMD instructions. (w/ Aayush)
 2) Optimize Bitplane library to make use of GPU for parallel processing. 
 
 Aayush:
-1) Optimize Bitplane library to make use of NEON/SIMD instructions. (w/ Aditya)
+1) Optimize mobile device implementation to make use of NEON/SIMD instructions. (w/ Aditya)
 2) Parallelize code of IOS Bitplane tracker to improve performance and efficiency. 
 
 Potential timeline:
