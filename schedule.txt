@@ -1,0 +1,24 @@
+Tasks to be accomplished:
+
+Akshat:
+1) Get working version of Bitplanes tracker on an IOS device
+
+Aditya:
+1) Optimize Bitplane library to make use of NEON/SIMD instructions. (w/ Aayush)
+2) Optimize Bitplane library to make use of GPU for parallel processing. 
+
+Aayush:
+1) Optimize Bitplane library to make use of NEON/SIMD instructions. (w/ Aditya)
+2) Parallelize code of IOS Bitplane tracker to improve performance and efficiency. 
+
+Potential timeline:
+Finish all tasks numbered 1) by April 17th 2017. Due to potential variation in timings of completion, the tasks may be switched around. We expect Akshat to help in the implementation of parallelized code in the main app (i.e. with the Bitplane interface) with Aayush after this while Aditya searches for additional ways to optimize the Bitplane library for mobile use. We expect this task to be finished by April 28th 2017.
+
+Additional task for everyone depending on when these tasks get completed:
+We have a vision to use Bitplanes to track images with occlusion in the template as well. Our motivation is the following paper: http://www.cs.cmu.edu/~jiyanpan/papers/cvpr07.pdf
+
+We do not expect to complete this with a robust implementation intime for the final project but hope we can demonstrate some simple cases where the tracking continues after the region is partially occluded. 
+
+
+
+
